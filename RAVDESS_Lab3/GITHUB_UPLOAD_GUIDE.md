@@ -47,7 +47,3 @@ python -m pytest -q
 ```
 
 The default dataset is synthetic for software validation. To use the real RAVDESS recordings, see `README.md` and `data/raw/README.md`.
-
-## What not to upload
-
-Do not commit the original large RAVDESS archive, secrets, `.venv/`, `__pycache__/`, `.pytest_cache/`, or `.ipynb_checkpoints/`. The `.gitignore` is configured for these patterns. Review personal or sensitive material before pushing files to a public repository.
