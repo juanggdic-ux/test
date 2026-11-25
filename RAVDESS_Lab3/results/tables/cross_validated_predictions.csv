@@ -1,0 +1,25 @@
+Model,Actor,True,Predicted,P(Sad)
+Logistic regression,01,0,0,0.4358683955836691
+Logistic regression,02,0,0,0.468448430725231
+Logistic regression,03,0,0,0.44755904982342265
+Logistic regression,04,0,1,0.5561427121110187
+Logistic regression,05,0,0,0.3764483584643501
+Logistic regression,06,0,1,0.6172490409606124
+Logistic regression,01,1,1,0.6060624579277976
+Logistic regression,02,1,0,0.46883445181385164
+Logistic regression,03,1,1,0.6519204570975609
+Logistic regression,04,1,0,0.4509336836817163
+Logistic regression,05,1,1,0.5729476946779044
+Logistic regression,06,1,0,0.4537701003440924
+Standardized logistic,01,0,0,0.4273811859565358
+Standardized logistic,02,0,0,0.11884709478892622
+Standardized logistic,03,0,0,0.06926277810312527
+Standardized logistic,04,0,0,0.1466593370920007
+Standardized logistic,05,0,0,0.21013904387325283
+Standardized logistic,06,0,0,0.39278966088308676
+Standardized logistic,01,1,1,0.9390403863186334
+Standardized logistic,02,1,1,0.7399987115360117
+Standardized logistic,03,1,1,0.661599118365836
+Standardized logistic,04,1,1,0.7867848075336255
+Standardized logistic,05,1,1,0.8481322045111283
+Standardized logistic,06,1,1,0.9317361021093536

@@ -1,0 +1,6 @@
+{
+  "dataset": "synthetic demo",
+  "actors": 6,
+  "repetitions": 4,
+  "strategy": "minimum elapsed time (seconds); stages measured independently; pYIN excluded from feature timing"
+}
