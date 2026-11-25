@@ -104,22 +104,7 @@ The pipeline now enforces metadata-matched conditions, actor grouping, complete 
 
 The Lab 3 pipeline separates responsibilities, provides explicit theoretical complexity bounds and empirical speed tests, and produces reproducible statistical/visual outputs. Its results establish reproducibility of the **method**, not clinical validity. Evaluate the complete RAVDESS ZIP before interpreting real-emotion separability.
 
-## Git publication
-
-From the extracted project directory, after checking which data may be shared:
-
-```bash
-git init
-git add .
-git commit -m "Lab 3: modular RAVDESS analysis and complexity comparison"
-git branch -M main
-git remote add origin <YOUR_GITHUB_OR_GITLAB_REPO_URL>
-git push -u origin main
-```
-
-The repository has not been uploaded automatically. Do not commit the full RAVDESS archive without checking the dataset's redistribution conditions. The bundled synthetic fixture is expressly distributable for this demonstration.
-
-## References (APA 7)
+## References
 
 Livingstone, S. R., & Russo, F. A. (2018). The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English. *PLOS ONE, 13*(5), Article e0196391. https://doi.org/10.1371/journal.pone.0196391
 
